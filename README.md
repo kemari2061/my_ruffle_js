@@ -55,3 +55,5 @@ If you want to control the Ruffle player, you may use our Javascript API.
 ## Building, testing or contributing
 
 Please see [the ruffle-web README](https://github.com/ruffle-rs/ruffle/blob/master/web/README.md).
+
+[my_ruffle_js](https://kemari2061.github.io/my_ruffle_js/ruffle.js)
